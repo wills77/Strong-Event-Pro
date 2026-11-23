@@ -1,0 +1,6 @@
+{
+  "name": "STRONG EVENT PRO",
+  "description": "Plateforme professionnelle d'organisation, de planification et de réservation d'événements à Casablanca, Maroc. Vos événements, notre expertise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
